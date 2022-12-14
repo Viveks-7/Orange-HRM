@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Employees are: 39]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-14T11:38:29 IST" name="Default suite" finished-at="2022-12-14T11:38:45 IST" duration-ms="16052">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T11:38:29 IST" name="Default test" finished-at="2022-12-14T11:38:45 IST" duration-ms="16052">
+      <class name="com.hrm.TestCases.TC_homePageVerify_003">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.hrm.TestCases.TC_homePageVerify_003@6adbc9d]" started-at="2022-12-14T11:38:29 IST" name="setup" finished-at="2022-12-14T11:38:40 IST" duration-ms="10945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="obj()[pri:0, instance:com.hrm.TestCases.TC_homePageVerify_003@6adbc9d]" started-at="2022-12-14T11:38:40 IST" name="obj" finished-at="2022-12-14T11:38:40 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- obj -->
+        <test-method signature="login()[pri:1, instance:com.hrm.TestCases.TC_homePageVerify_003@6adbc9d]" started-at="2022-12-14T11:38:40 IST" name="login" finished-at="2022-12-14T11:38:42 IST" duration-ms="1687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testAbout()[pri:3, instance:com.hrm.TestCases.TC_homePageVerify_003@6adbc9d]" started-at="2022-12-14T11:38:42 IST" name="testAbout" finished-at="2022-12-14T11:38:45 IST" duration-ms="2671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAbout -->
+        <test-method signature="testDetails()[pri:4, instance:com.hrm.TestCases.TC_homePageVerify_003@6adbc9d]" started-at="2022-12-14T11:38:45 IST" name="testDetails" finished-at="2022-12-14T11:38:45 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method signature="testEmployees()[pri:5, instance:com.hrm.TestCases.TC_homePageVerify_003@6adbc9d]" started-at="2022-12-14T11:38:45 IST" name="testEmployees" finished-at="2022-12-14T11:38:45 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Employees are: 39]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testEmployees -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.hrm.TestCases.TC_homePageVerify_003@6adbc9d]" started-at="2022-12-14T11:38:45 IST" name="tearDown" finished-at="2022-12-14T11:38:45 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.TestCases.TC_homePageVerify_003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
